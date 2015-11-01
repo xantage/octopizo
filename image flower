@@ -17,3 +17,9 @@ margin: 100px 50px;
  h1 {
 font-size: 40px;
 }
+
+ img {
+float: right;
+margin: 0 0
+10px 10px;
+}
