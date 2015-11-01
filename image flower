@@ -13,3 +13,7 @@ border-width: 5px;
  p {
 margin: 100px 50px;
 }
+
+ h1 {
+font-size: 40px;
+}
