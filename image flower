@@ -24,13 +24,19 @@ margin: 0 0
 10px 10px;
 }
 
-image https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg
 
- https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg
-
+ 
+**BACKGROUND IMAGES** 
 
  body {
     background-image: url
-( 
- https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg );
-}
+(img_flwr.gif), url
+(paper.gif);
+} 
+
+
+image https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg
+
+ html { 
+  background: url( https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg ) no-repeat center center fixed; 
+} 
