@@ -25,3 +25,12 @@ margin: 0 0
 }
 
 image https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg
+
+ https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg
+
+
+ body {
+    background-image: url
+( 
+ https://en.gravatar.com/userimage/39858433/5edc87c0b2fbfc0098cb429755af7021.jpg );
+}
